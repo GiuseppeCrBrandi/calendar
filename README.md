@@ -5,7 +5,7 @@ email notifications.
 
 Calendar services are an organization's lifeblood next to email.  This guide
 shows how to ready and deploy a robust, enterprise-class calendar service
-compliant with all vendor and Internet calendaring, scheduling, and messaging
+complies with all vendor and Internet calendaring, scheduling, and messaging
 standards --  enable CalDAV and CardDAV for OS X, iOS, Android, Windows, and
 Linux calendar clients in 10 minutes or less.  It leverages the power of
 Baïkal/SabreDAV, Postfix, Docker, and Linux.
